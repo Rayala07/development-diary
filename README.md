@@ -53,6 +53,8 @@ Every folder contains hands-on practice files, exercises, and mini-projects I’
 ---
 
 ## 🙌 Connect With Me :)
+- Linkedin : https://www.linkedin.com/in/rv07/
+- X : https://x.com/ReyZox_07
 
 This repo is part of my **#BuildInPublic** journey.  
 Feel free to follow my growth, give suggestions, or share ideas!
