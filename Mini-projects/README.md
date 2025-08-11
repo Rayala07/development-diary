@@ -58,10 +58,27 @@ This project helped me understand real-world layouting, custom fonts, text fadin
 
 ---
 
-## 🚀 Current Phase: JavaScript Begins!  
+### 4. Todo List App  
+**Description**:  
+An interactive todoList webpage created using **HTML, CSS & Javascript**.
+This mini=project helped me understand and learn how to add and fetch data from Arrays/Objects using loops in JavaScript
 
-Now that I've completed **HTML & CSS fundamentals**, I'm diving into **JavaScript** to add interactivity to my projects.  
-Future mini-projects will include form validation, DOM manipulation, and simple web apps.
+**Highlights**:
+- Grid layout for todo-input, date and add-todo button
+- Styled text and buttom for better user readability 
+- Clean and minimal design
+
+**Tech Used**:  
+- HTML5  
+- CSS3
+- Javascript
+
+📁 Folder: `/Todo-app` 
+
+## 🚀 Current Phase: JavaScript in-Progress !  
+
+I'm diving deep into **JavaScript** to add interactivity and efficiency to my projects.  
+Looking forward to build full-stack projects.
 
 ---
 
